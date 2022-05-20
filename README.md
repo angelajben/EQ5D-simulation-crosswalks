@@ -1,2 +1,2 @@
 # EQ5D-simulation-crosswalks
-The impact of using EQ-5D value sets or mapping approaches  on cost-utility outcomes: a simulation study
+This study aimes to assess the impact of using EQ-5D value sets or crosswalks on cost-utility outcomes using simulated data
